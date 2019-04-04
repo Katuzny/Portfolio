@@ -4,7 +4,8 @@ Description du challenge:
 Créer un portfolio qui devra comporter
 Nom et prénom
 Description
-Coordonné et formulaire de contact.
+Coordonnées et formulaire de contact.
+
 
 Etape 1
 
@@ -24,7 +25,26 @@ Nom : Katuzny
 Prénom : Christophe
 Logo
 
-Adresse
-Adresse mail
-Tel
+Adresse 59 avenue des martyrs 03410 domérat
+Adresse mail katuznychristophe@gmail.com
+Tel : 0626507358
+
+Description :
+
+Apprenant à l'AFORMAC de Montluçon, en section  Développement WEB et WEB mobile.
+
+Réalisations
+
+sites web réalisés
+
+Faire un git commit etc...
+
+Etape 4 
+
+Faire la maquette sur papier  du site.
+Décomposer les différentes parties du site à réaliser
+
+Etape 5
+
+Réalisation du site avec essais du rendu et commits réguliers.
 
