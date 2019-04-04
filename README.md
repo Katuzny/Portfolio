@@ -4,7 +4,7 @@ Description du challenge:
 Créer un portfolio qui devra comporter
 Nom et prénom
 Description
-Coordonn et formulaire de contact.
+Coordonné et formulaire de contact.
 
 Etape 1
 
